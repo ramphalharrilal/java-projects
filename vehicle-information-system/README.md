@@ -2,6 +2,10 @@
 
 A console based Java application for creating and displaying information about cars, motorcycles, and trucks.
 
+## Application Preview
+
+![Vehicle Information System](vehicle-information-system-screenshot.png)
+
 ## Features
 
 * Create car records with make, model, year, number of doors, and fuel type
