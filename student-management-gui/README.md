@@ -2,6 +2,10 @@
 
 A Java Swing desktop application for managing student records, course enrollment, and grades through a graphical user interface.
 
+## Application Preview
+
+![Student Management GUI](student-management-gui-screenshot.png)
+
 ## Features
 
 * Add students using an ID, name, and age
