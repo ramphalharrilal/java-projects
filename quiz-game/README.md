@@ -4,12 +4,12 @@ A console based Java quiz application created to demonstrate programming fundame
 
 ## Skills Demonstrated
 
-• Java syntax and data types
-• Conditional statements
-• Loops and program flow
-• User input handling
-• Score calculation
-• Clear output and user feedback
+- Java syntax and data types
+- Conditional statements
+- Loops and program flow
+- User input handling
+- Score calculation
+- Clear output and user feedback
 
 ## Project File
 
