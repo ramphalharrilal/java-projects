@@ -2,6 +2,10 @@
 
 A console based Java application for managing students, courses, enrollment, course capacity, and grades.
 
+## Application Preview
+
+![Course Enrollment System](course-enrollment-system-screenshot.png)
+
 ## Features
 
 * Add courses using a course code, name, and maximum capacity
