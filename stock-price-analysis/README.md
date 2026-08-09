@@ -2,6 +2,10 @@
 
 A Java application that analyzes a collection of opening stock prices using both an array and an `ArrayList`.
 
+## Analysis Preview
+
+![Stock Price Analysis](stock-price-analysis-screenshot.png)
+
 ## Features
 
 * Store ten days of opening stock prices
