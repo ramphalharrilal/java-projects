@@ -2,10 +2,6 @@
 
 A console based Java application for adding, updating, searching, and displaying student records.
 
-## Application Preview
-
-![Student Record Management System](student-record-management-system-screenshot.png)
-
 ## Features
 
 * Add students using a name, ID, age, and grade
