@@ -1,6 +1,10 @@
-# Java Projects
+# Java Learning Archive
 
-A collection of Java applications developed while building hands on programming skills through my Computer Science studies. These projects demonstrate object oriented programming, graphical user interfaces, collections, data analysis, functional programming, and input validation.
+[![Java compilation](https://github.com/ramphalharrilal/java-projects/actions/workflows/ci.yml/badge.svg)](https://github.com/ramphalharrilal/java-projects/actions/workflows/ci.yml)
+
+An organized archive of standalone Java applications developed while building core programming skills through my Computer Science studies. These projects show progression across object-oriented programming, graphical interfaces, collections, data analysis, functional programming, and input validation.
+
+For my current business-focused Java work, see the [Hardware Inventory System](https://github.com/ramphalharrilal/hardware-inventory-system).
 
 ## Project Directory
 
